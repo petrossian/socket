@@ -1,0 +1,6 @@
+{
+    "require": {
+        "hhxsv5/php-sse": "~2.0",
+        "cboden/ratchet": "^0.4.4"
+    }
+}
